@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.haeder-nav {
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.ico {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.token-grid {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+}
+
+.token-info {
+  padding-bottom: 30px;
+}
+
+.token-buy-input {
+  padding-top: 10px;
+}
+
+.img-center {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.input-btn {
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.pad-bott {
+  padding-bottom: 10px;
+}
+
+.header .home-page {
+  padding-top: 20%;
+  font-family: "Sharp Sans No1", sans-serif;
+}

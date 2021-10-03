@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.haeder-nav {
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+.ico {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.token-grid {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.token-info {
+  padding-bottom: 30px;
+}
+
+.token-buy-input {
+  padding-top: 10px;
+}
+
+.img-center {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.input-btn {
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.pad-bott {
+  padding-bottom: 10px;
+}
+
+.header .home-page {
+  padding-top: 20%;
+  font-family: "Sharp Sans No1", sans-serif;
+}
+
+.orange-color {
+  color: rgb(250, 199, 103);
+}
+
+.green-color {
+  padding-right: 5px;
+  color: rgb(22, 197, 22);
+}
+
+.red-color {
+  padding-left: 5px;
+  padding-right: 5px;
+  color: rgb(235, 91, 91);
+}
+
+.pool-creation {
+  padding-top: 20px;
+}
+
+.pool-cards {
+  padding-top: 100px;
+}
+
+.admin-card {
+  padding-bottom: 30px;
+}
+
+.stake-grid {
+  width: 60%;
+  padding-top: 50px;
+  margin-left: 20%;
+}
+
+.stake-input {
+  width: 30%;
+  min-width: 300px;
+  margin-left: 35%;
+}
+
+.stake-button {
+  width: 30%;
+  margin-left: 35%;
+  padding-bottom: 40px;
+}
+
+.stake-h2 {
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+
+.unstake-button {
+  width: 62%;
+  margin-left: 35%;
+}
