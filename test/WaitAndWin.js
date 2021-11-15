@@ -21,7 +21,7 @@ contract("WaitAndWin", accounts => {
   //===========================================
   //          CHECK CONTRACT PROPERTIES
   //===========================================
-  it("should check contract has an address", async () => {
+  it("should check contract propreties", async () => {
     //a address
     let addr = await waw.address;
     // token name

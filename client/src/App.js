@@ -49,6 +49,8 @@ class App extends Component {
       const WAWContract = await ERC20Contract(web3);
       const NFTContract = await ERC721Contract(web3);
 
+      console.log("NFT contract", NFTContract);
+
       const accounts = await web3.eth.getAccounts();
 
       // get the amount of tokens staked by the user
